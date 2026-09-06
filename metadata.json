@@ -1,0 +1,8 @@
+{
+  "name": "Sport Booking & UMKM Kreatif Hub",
+  "description": "Sistem reservasi lapangan olahraga (Futsal, Padel, Badminton) terintegrasi pemberdayaan UMKM ekonomi kreatif dan minimarket arena.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
